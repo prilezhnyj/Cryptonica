@@ -19,7 +19,7 @@
 - Для кэширования данных использовался FileManager
 
 ## Контакты
-- Телеграм @prilezhnyj
+- Телеграм t.me/prilezhnyj
 - Почта dev.botalov@gmail.com
 
 ## Скриншоты
