@@ -22,7 +22,7 @@
 - Почта dev.botalov@gmail.com
 
 ## Скриншоты
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/1.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/2.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/3.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/4.png)
+![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/1.png)
+![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/2.png)
+![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/3.png)
+![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/4.png)
