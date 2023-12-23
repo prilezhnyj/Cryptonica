@@ -22,5 +22,8 @@ Today, let's look at the Cryptonica application, which allows you to monitor the
 - [Telegram](https://t.me/prilezhnyj/)
 - dev.botalov@gmail.com
 
+## My resume
+- [My resume is on hh.ru](https://perm.hh.ru/resume/2860b941ff0c8986830039ed1f385437385559)
+
 ## Screenshots
 ![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Screenshots.png)
