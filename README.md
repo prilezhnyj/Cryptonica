@@ -20,7 +20,7 @@ Today, let's look at the Cryptonica application, which allows you to monitor the
 
 ## My contacts
 - [Telegram](https://t.me/prilezhnyj/)
-- Email dev.botalov@gmail.com
+- dev.botalov@gmail.com
 
 ## Screenshots
 ![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Screenshots.png)
