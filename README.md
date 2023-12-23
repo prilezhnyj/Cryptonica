@@ -22,8 +22,7 @@
 - Почта dev.botalov@gmail.com
 
 ## Скриншоты
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Screenshot_1.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Screenshot_2.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-12-23%20at%2016.43.57.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-12-23%20at%2016.44.40.png)
-![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-12-23%20at%2016.50.31.png)
+![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/1.png)
+![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/2.png)
+![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/3.png)
+![Image alt](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/4.png)
