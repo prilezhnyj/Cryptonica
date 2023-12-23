@@ -19,7 +19,7 @@ Today, let's look at the Cryptonica application, which allows you to monitor the
 - File Manager was used for data caching
 
 ## My contacts
-- Telegram t.me/prilezhnyj
+- [Telegram](https://t.me/prilezhnyj/)
 - Email dev.botalov@gmail.com
 
 ## Screenshots
