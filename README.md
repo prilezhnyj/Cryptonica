@@ -1,26 +1,26 @@
 # Cryptonica
-Привет, меня зовут Максим Боталов! Занимаюсь iOS разработкой 3 года.
-Сегодня посмотрим на приложение Cryptonica, которое позволяет следить за рынком криптовалюты.
+Hi, my name is Maksim Botalov! I have been developing iOS for 3 years.
+Today, let's look at the Cryptonica application, which allows you to monitor the cryptocurrency market.
 
-## Основные возможности
-- Отображение всех монет
-- Сортировка по имени / стоимости
-- Поиск монет
-- Добавление в портфолио
-- Изменение количества определенной монеты
-- Удаление монеты
-- Полная поддежка светлой и тёмной темы
+## Main features
+- Display of all coins
+- Sorting by name / costs
+- Coin search
+- Adding to the portfolio
+- Changing the amount of a certain coin
+- Removing the coin
+- Full support for light and dark themes
 
-## Фреймворки
-- UI полностью написан на SwiftUI
-- В сетевом слое был задействован URLSession + Combine
-- Архитектура MVVM + Combine
-- Сохранение монет по ID был задействован фреймворк CoreData
-- Для кэширования данных использовался FileManager
+## Frameworks
+- The UI is completely written in SwiftUI
+- The Session + Combine URL was used in the network layer
+- MVVM + Combine architecture
+- The Core Data framework was used to save coins by ID
+- File Manager was used for data caching
 
-## Контакты
-- Телеграм t.me/prilezhnyj
-- Почта dev.botalov@gmail.com
+## My contacts
+- Telegram t.me/prilezhnyj
+- Email dev.botalov@gmail.com
 
-## Скриншоты
+## Screenshots
 ![Screenshot](https://github.com/prilezhnyj/Cryptonica/blob/main/Cryptonica/Screenshots.png)
